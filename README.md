@@ -9,15 +9,6 @@ Provide a short description explaining the what, why, and how of your project. U
 - This webpage allows me to have a resource to reference if I get stuck or lost when working in HTML, CSS, Git, or JavaScript.
 - I learned the purpose of HTML, CSS, Git, and JavaScript. I learned the connection between my terminal, VS code, and Github.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
 N/A
